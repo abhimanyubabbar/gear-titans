@@ -1,0 +1,7 @@
+inputfile: "Gear Tiatans.xlsx"
+outputfile: "Gear Tiatans new.xlsx"
+mastersheet: "master till date live products"
+inboundsheet: "inbound  puchase"
+outboundsheet: "OUT BOUND"
+inventorysheet: "inventory"
+
